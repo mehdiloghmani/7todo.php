@@ -1,0 +1,21 @@
+{
+    "name": "main/7todo",
+    "description": "A Simple Todo List Project(With Ajax,php and mysql)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Main\\7todo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mehdi mehdi loghmani",
+            "email": "mehdi.daftareshghe@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^2.1"
+    }
+}
